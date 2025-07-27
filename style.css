@@ -1,0 +1,12 @@
+
+body {
+  background: #f2e4c7;
+  font-family: "VT323", monospace;
+  color: #3e2f2f;
+  margin: 0;
+  padding: 20px;
+}
+h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
